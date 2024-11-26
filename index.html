@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>Frontend Mentor | IP Address Tracker</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      rel="stylesheet"
+      href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css"
+    />
+  </head>
+  <body>
+    <div class="container">
+      <div class="header">
+        <img src="images/pattern-bg-desktop.png" />
+      </div>
+      <div class="ip-tracker">
+        <h1>IP Address Tracker</h1>
+
+        <div class="input">
+          <input
+            type="text"
+            placeholder="Search for any IP address or domain"
+          />
+          <button><img src="images/icon-arrow.svg" alt="" /></button>
+        </div>
+
+        <div class="ip-info">
+          <div class="ip-address">
+            <p>IP ADDRESS</p>
+            <h3 class="address"></h3>
+          </div>
+
+          <div class="locations info">
+            <p>LOCATION</p>
+            <h3 class="location"></h3>
+          </div>
+
+          <div class="timezones info">
+            <p>TIMEZONE</p>
+            <h3 class="timezone"></h3>
+          </div>
+
+          <div class="isp info">
+            <p>ISP</p>
+            <h3 class="spacex"></h3>
+          </div>
+        </div>
+      </div>
+      <div id="map"></div>
+    </div>
+
+    <script src="app.js"></script>
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+  </body>
+</html>

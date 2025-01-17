@@ -12,8 +12,6 @@
 
 ⚙️This project was both challenging and rewarding 
 
-
-
 Live Link: [IP-Address-Tracker](https://roobiwebdev.github.io/Day-58-IP-Address-Tracker/)
 
 

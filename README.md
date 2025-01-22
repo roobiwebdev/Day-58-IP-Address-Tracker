@@ -10,7 +10,7 @@ For Day 58, I developed an IP Address Tracker it can automatically detect the us
 
 ✅ Integrated a map to visually represent the location of the IP address
 
-⚙️This project was both challenging and rewarding 
+This project was both challenging and rewarding 
 
 Live Link: [IP-Address-Tracker](https://roobiwebdev.github.io/Day-58-IP-Address-Tracker/)
 

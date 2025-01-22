@@ -1,4 +1,4 @@
-🗓#Day58 of #100DaysChallenge
+#Day58 of #100DaysChallenge
 
 📎For Day 58, I developed an IP Address Tracker it can automatically detect the user's IP address and display detailed information about its location, timezone, and ISP. Users can also input any IP address or domain to see specific data. Here's what I accomplished:
 
